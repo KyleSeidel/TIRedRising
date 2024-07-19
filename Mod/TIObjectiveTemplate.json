@@ -37,9 +37,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -90,9 +90,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -143,9 +143,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -2581,9 +2581,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -2634,9 +2634,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -2687,9 +2687,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -2740,9 +2740,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -2793,9 +2793,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -2846,9 +2846,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -2899,9 +2899,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -2949,9 +2949,9 @@
       }
    ],
    "factionDataNames": [
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "",
       "",
       "",
@@ -3005,9 +3005,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
-      "AppeaseCouncil",
+      "EqualizeCouncil",
       ""
    ],
    "assignedIllustrationResource": "",
@@ -3058,7 +3058,7 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       ""
@@ -3111,7 +3111,7 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       ""
@@ -3164,7 +3164,7 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       ""
@@ -3217,7 +3217,7 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       ""
@@ -3270,7 +3270,7 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       ""
@@ -3323,9 +3323,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "ExploitCouncil"
    ],
    "assignedIllustrationResource": "",
@@ -3376,7 +3376,7 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       ""
@@ -3429,7 +3429,7 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       ""
@@ -3482,9 +3482,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
-      "AppeaseCouncil",
+      "EqualizeCouncil",
       ""
    ],
    "assignedIllustrationResource": "",
@@ -3535,9 +3535,9 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
-      "AppeaseCouncil",
+      "EqualizeCouncil",
       ""
    ],
    "assignedIllustrationResource": "",
@@ -3744,9 +3744,9 @@
       }
    ],
    "factionDataNames": [
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "",
       "",
       "",
@@ -3797,7 +3797,7 @@
       }
    ],
    "factionDataNames": [
-      "SubmitCouncil",
+      "RestoreCouncil",
       "",
       "",
       "",
@@ -3853,7 +3853,7 @@
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       ""
@@ -3904,7 +3904,7 @@
    ],
    "factionDataNames": [
       "ResistCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "",
       "",
       "",
@@ -3956,9 +3956,9 @@
       }
    ],
    "factionDataNames": [
-      "SubmitCouncil",
-      "AppeaseCouncil",
-      "CooperateCouncil",
+      "RestoreCouncil",
+      "EqualizeCouncil",
+      "LiberateCouncil",
       "",
       "",
       "",
@@ -4010,7 +4010,7 @@
    ],
    "factionDataNames": [
       "DestroyCouncil",
-      "CooperateCouncil",
+      "LiberateCouncil",
       "",
       "",
       "",
@@ -4062,7 +4062,7 @@
       }
    ],
    "factionDataNames": [
-      "CooperateCouncil",
+      "LiberateCouncil",
       "ExploitCouncil",
       "",
       "",
@@ -4117,7 +4117,7 @@
         "factionDataNames": [
             "ResistCouncil",
             "DestroyCouncil",
-            "CooperateCouncil",
+            "LiberateCouncil",
             "ExploitCouncil",
             "",
             "",
@@ -4170,7 +4170,7 @@
         "factionDataNames": [
             "ResistCouncil",
             "DestroyCouncil",
-            "CooperateCouncil",
+            "LiberateCouncil",
             "ExploitCouncil",
             "",
             "",
@@ -4327,7 +4327,7 @@
       }
    ],
    "factionDataNames": [
-      "AppeaseCouncil",
+      "EqualizeCouncil",
       "",
       "",
       "",
@@ -4380,7 +4380,7 @@
       }
    ],
    "factionDataNames": [
-      "CooperateCouncil",
+      "LiberateCouncil",
       "",
       "",
       "",
@@ -4645,7 +4645,7 @@
       }
    ],
    "factionDataNames": [
-      "SubmitCouncil",
+      "RestoreCouncil",
       "",
       "",
       "",
@@ -4698,7 +4698,7 @@
             }
         ],
         "factionDataNames": [
-            "AppeaseCouncil",
+            "EqualizeCouncil",
             "",
             "",
             "",
@@ -4751,7 +4751,7 @@
             }
         ],
         "factionDataNames": [
-            "CooperateCouncil",
+            "LiberateCouncil",
             "",
             "",
             "",
@@ -5016,7 +5016,7 @@
             }
         ],
         "factionDataNames": [
-            "SubmitCouncil",
+            "RestoreCouncil",
             "",
             "",
             "",
@@ -5069,7 +5069,7 @@
             }
         ],
         "factionDataNames": [
-            "AppeaseCouncil",
+            "EqualizeCouncil",
             "",
             "",
             "",
@@ -5175,7 +5175,7 @@
       }
    ],
    "factionDataNames": [
-      "AppeaseCouncil",
+      "EqualizeCouncil",
       "",
       "",
       "",
@@ -5228,7 +5228,7 @@
       }
    ],
    "factionDataNames": [
-      "CooperateCouncil",
+      "LiberateCouncil",
       "",
       "",
       "",
@@ -5493,7 +5493,7 @@
       }
    ],
    "factionDataNames": [
-      "SubmitCouncil",
+      "RestoreCouncil",
       "",
       "",
       "",

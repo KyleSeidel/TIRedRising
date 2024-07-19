@@ -11,7 +11,7 @@
    "epoch_floatJYears": 2021.4767,
    "sectors": [
       {
-         "faction": "CooperateCouncil",
+         "faction": "LiberateCouncil",
          "habModuleNames": [
             "PlatformCore",
             "",
@@ -128,7 +128,7 @@
    "meanAnomalyAtEpoch_Deg": null,
    "sectors": [
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienColonyCore",
             "AlienColonyMiningComplex",
@@ -138,7 +138,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienFusionReactorFarm",
             "AlienCitadel",
@@ -147,7 +147,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienFusionReactorFarm",
             "AlienBattlestations",
@@ -156,7 +156,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienFusionReactorFarm",
             "AlienBattlestations",
@@ -165,7 +165,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienFusionReactorFarm",
             "AlienBattlestations",
@@ -186,7 +186,7 @@
    "meanAnomalyAtEpoch_Deg": null,
    "sectors": [
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienRingCore",
             "AlienGarrison",
@@ -196,7 +196,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "",
             "",
@@ -205,7 +205,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienFusionReactorArray",
             "AlienLayeredDefenseArray",
@@ -214,7 +214,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "",
             "",
@@ -223,7 +223,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienShipyard",
             "AlienLayeredDefenseArray",
@@ -534,7 +534,7 @@
    "meanAnomalyAtEpoch_Deg": null,
    "sectors": [
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "ColonyCore",
             "OutpostMiningComplex",
@@ -544,7 +544,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "FusionReactorArray",
             "LayeredDefenseArray",
@@ -553,7 +553,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "FusionReactorArray",
             "LayeredDefenseArray",
@@ -562,7 +562,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "LayeredDefenseArray",
             "LayeredDefenseArray",
@@ -571,7 +571,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "FusionReactorArray",
             "LayeredDefenseArray",
@@ -592,7 +592,7 @@
    "meanAnomalyAtEpoch_Deg": null,
    "sectors": [
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "ColonyCore",
             "",
@@ -602,7 +602,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "FusionReactorArray",
             "LayeredDefenseArray",
@@ -611,7 +611,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "FusionReactorArray",
             "LayeredDefenseArray",
@@ -620,7 +620,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "LayeredDefenseArray",
             "LayeredDefenseArray",
@@ -629,7 +629,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "FusionReactorArray",
             "LayeredDefenseArray",
@@ -708,7 +708,7 @@
    "meanAnomalyAtEpoch_Deg": null,
    "sectors": [
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienRingCore",
             "AlienPointDefenseArray",
@@ -718,7 +718,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "",
             "",
@@ -727,7 +727,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienNanofactory",
             "AlienFusionReactorArray",
@@ -736,7 +736,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "",
             "",
@@ -745,7 +745,7 @@
          ]
       },
       {
-         "faction": "AlienCouncil",
+         "faction": "DominateCouncil",
          "habModuleNames": [
             "AlienShipyard",
             "AlienFusionReactorArray",
@@ -766,7 +766,7 @@
    "meanAnomalyAtEpoch_Deg": null,
    "sectors": [
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "RingCore",
             "FusionReactorFarm",
@@ -776,7 +776,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "MarineBattalionBarracks",
             "EnergyInstitute",
@@ -785,7 +785,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "Shipyard",
             "LifeScienceInstitute",
@@ -794,7 +794,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "Supercollider",
             "PointDefenseArray",
@@ -803,7 +803,7 @@
          ]
       },
       {
-         "faction": "SubmitCouncil",
+         "faction": "RestoreCouncil",
          "habModuleNames": [
             "MediaCenter",
             "LayeredDefenseArray",

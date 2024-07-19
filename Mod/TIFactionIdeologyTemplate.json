@@ -1,13 +1,13 @@
 [
  {
-   "dataName": "alien",
+   "dataName": "dominate",
    "alien": true,
    "undecided": false,
    "sortOrder": 0,
    "willProxy": 3,
    "willAppease": 1,
    "initialReactionGroup": 2,
-   "ideology": "Alien",
+   "ideology": "Dominate",
    "ideologyCoordinates": {
       "x": 0,
       "y": 2,
@@ -15,14 +15,14 @@
    }
 },
  {
-   "dataName": "appease",
+   "dataName": "equalize",
    "alien": false,
    "undecided": false,
    "sortOrder": 1,
    "willProxy": 1,
    "willAppease": 3,
    "initialReactionGroup": 2,
-   "ideology": "Appease",
+   "ideology": "Equalize",
    "ideologyCoordinates": {
       "x": 0,
       "y": 2.5,
@@ -45,14 +45,14 @@
    }
 },
  {
-   "dataName": "cooperate",
+   "dataName": "liberate",
    "alien": false,
    "undecided": false,
    "sortOrder": 3,
    "willProxy": 1,
    "willAppease": 1,
    "initialReactionGroup": 1,
-   "ideology": "Cooperate",
+   "ideology": "Liberate",
    "ideologyCoordinates": {
       "x": -2,
       "y": -2,
@@ -60,14 +60,14 @@
    }
 },
  {
-   "dataName": "Submit",
+   "dataName": "Restore",
    "alien": false,
    "undecided": false,
    "sortOrder": 4,
    "willProxy": -1,
    "willAppease": 1,
    "initialReactionGroup": 1,
-   "ideology": "submit",
+   "ideology": "restore",
    "ideologyCoordinates": {
       "x": 0.0,
       "y": -2.5,
