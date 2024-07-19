@@ -3,7 +3,7 @@ TIFactionTemplate.displayName.AlienCouncil.Later=the Society
 TIFactionTemplate.displayName.AppeaseCouncil=the Solar Republic
 TIFactionTemplate.displayName.ResistCouncil=the Sons of Ares
 TIFactionTemplate.displayName.CooperateCouncil=the Rim Dominion
-TIFactionTemplate.displayName.SubmitCouncil=the Lightbringers
+TIFactionTemplate.displayName.SubmitCouncil=the Shepards
 TIFactionTemplate.displayName.ExploitCouncil=the Syndicate
 TIFactionTemplate.displayName.DestroyCouncil=the Red Hand
 TIFactionTemplate.displayName.EscapeCouncil=Project Oculus
@@ -13,7 +13,7 @@ TIFactionTemplate.adjective.AlienCouncil.Later=Society
 TIFactionTemplate.adjective.AppeaseCouncil=Republic
 TIFactionTemplate.adjective.ResistCouncil=Sons of Ares
 TIFactionTemplate.adjective.CooperateCouncil=Rim
-TIFactionTemplate.adjective.SubmitCouncil=Lightbringer
+TIFactionTemplate.adjective.SubmitCouncil=Shepard
 TIFactionTemplate.adjective.ExploitCouncil=Syndicate
 TIFactionTemplate.adjective.DestroyCouncil=Red Hand
 TIFactionTemplate.adjective.EscapeCouncil=Project Exodus
@@ -46,8 +46,8 @@ TIFactionTemplate.fullLeader.EscapeCouncil=Director Regulus ag Sun, Project Ocul
 
 TIFactionTemplate.leader.born.AppeaseCouncil=Mars
 TIFactionTemplate.leader.born.ResistCouncil=Mars
-TIFactionTemplate.leader.born.CooperateCouncil=Luna
-TIFactionTemplate.leader.born.SubmitCouncil=Io
+TIFactionTemplate.leader.born.CooperateCouncil=Io
+TIFactionTemplate.leader.born.SubmitCouncil=Luna
 TIFactionTemplate.leader.born.ExploitCouncil=Mars
 TIFactionTemplate.leader.born.DestroyCouncil=Mars
 TIFactionTemplate.leader.born.EscapeCouncil=Luna
@@ -106,22 +106,21 @@ TIFactionTemplate.Quote.ExploitCouncil=<align="right">"We must not only defend h
 TIFactionTemplate.Quote.DestroyCouncil=<align="right">"They are here to cleanse our sick world. The aliens are our saviors, and all who oppose them are enemies of the future."<align="left">
 TIFactionTemplate.Quote.EscapeCouncil=<align="right">"Every circumstance is an opportunity. Our test is to recognize and seize it."<align="left">
 
-TIFactionTemplate.Goal.AppeaseCouncil=Protect humanity by resisting the alien invasion
-TIFactionTemplate.Goal.ResistCouncil=Eradicate the aliens and all who support them
-TIFactionTemplate.Goal.CooperateCouncil=Exploit the alien arrival to gain power
-TIFactionTemplate.Goal.SubmitCouncil=Support the aliens by any means necessary
-TIFactionTemplate.Goal.ExploitCouncil=Convince the aliens that we are equals
-TIFactionTemplate.Goal.DestroyCouncil=Escape the aliens by sending humans to other stars
-TIFactionTemplate.Goal.EscapeCouncil=Protect humanity by appeasing the aliens
-
+TIFactionTemplate.Goal.AppeaseCouncil=Bring about peace, prosperity, and equality for all
+TIFactionTemplate.Goal.ResistCouncil=Resist the Golds and destroy the hierarchy
+TIFactionTemplate.Goal.CooperateCouncil=Liberate the rim from core corruption 
+TIFactionTemplate.Goal.SubmitCouncil=Restore the Society to the dream of Silenius
+TIFactionTemplate.Goal.ExploitCouncil=Exploit The Rising and will ourselves to power
+TIFactionTemplate.Goal.DestroyCouncil=Destory the Golds no matter the cost
+TIFactionTemplate.Goal.EscapeCouncil=Escape the hierarchy by sending colorless humans to other stars
 
 TIFactionTemplate.Victory.AppeaseCouncil=close the Hydra wormhole
 TIFactionTemplate.Victory.ResistCouncil=send a biological weapon through Hydra wormhole
 TIFactionTemplate.Victory.CooperateCouncil=control the Earth and the aliens with alien technology
 TIFactionTemplate.Victory.SubmitCouncil=conquer the Earth for the aliens
 TIFactionTemplate.Victory.ExploitCouncil=force the aliens to sign a coexistence treaty
-TIFactionTemplate.Victory.DestroyCouncil=leave the Solar System
-TIFactionTemplate.Victory.EscapeCouncil=encircle the Earth with orbital battlestations
+TIFactionTemplate.Victory.DestroyCouncil=destory the golds and their allies
+TIFactionTemplate.Victory.EscapeCouncil=leave the Solar System
 
 
 TIFactionTemplate.WinNotification.AppeaseCouncil={0} forces have detonated a weapon to shut down the alien wormhole in the outer Solar System, stranding the alien forces here and dooming them to defeat.
