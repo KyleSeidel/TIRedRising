@@ -1,0 +1,11 @@
+{
+	"Id": "Nexus Mods / Unity Mod Manager ID",
+	"DisplayName": "Red Rising",
+	"Title": "Red Rising",
+	"Author": "kts230",
+	"ModURL": "Currently unused",
+	"Requirements": [], //array of other mods your mod requires, by Id
+	"Version": "0.02",
+	"HomePage": "",
+	"Description": "Adds RedRising Factions"
+}

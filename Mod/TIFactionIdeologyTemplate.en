@@ -1,0 +1,29 @@
+TIFactionIdeologyTemplate.alien=Dominate the universe
+TIFactionIdeologyTemplate.appease=Ensure equality for all
+TIFactionIdeologyTemplate.resist=Resist the golds
+TIFactionIdeologyTemplate.cooperate=Liberate the rim
+TIFactionIdeologyTemplate.submit=Restore the golds
+TIFactionIdeologyTemplate.exploit=Profit from the Rising
+TIFactionIdeologyTemplate.destroy=Destory the golds
+TIFactionIdeologyTemplate.escape=Escape the golds
+TIFactionIdeologyTemplate.undecided=Undecided
+
+TIFactionIdeologyTemplate.alienGeneric=Dominate faction
+TIFactionIdeologyTemplate.appeaseGeneric=Equalize faction
+TIFactionIdeologyTemplate.resistGeneric=Resist faction
+TIFactionIdeologyTemplate.cooperateGeneric=Liberate faction
+TIFactionIdeologyTemplate.submitGeneric=Restore faction
+TIFactionIdeologyTemplate.exploitGeneric=Exploit faction
+TIFactionIdeologyTemplate.destroyGeneric=Destroy faction
+TIFactionIdeologyTemplate.escapeGeneric=Escape faction
+
+
+TIFactionIdeologyTemplate.alien.public=Dominate the universe
+TIFactionIdeologyTemplate.equalize.public=Ensure equality for all
+TIFactionIdeologyTemplate.resist.public=Resist the golds
+TIFactionIdeologyTemplate.cooperate.public=Liberate the rim
+TIFactionIdeologyTemplate.submit.public=Restore the golds
+TIFactionIdeologyTemplate.exploit.public=Profit from the Rising
+TIFactionIdeologyTemplate.destroy.public=Destory the golds
+TIFactionIdeologyTemplate.escape.public=Escape the golds
+TIFactionIdeologyTemplate.undecided.public=Undecided
