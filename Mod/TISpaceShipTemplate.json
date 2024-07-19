@@ -2,7 +2,7 @@
  {
    "dataName": "Ship13",
    "friendlyName": "Silent Dawn-class Infiltrator",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "CouncilorTransport",
    "hullName": "AlienGunship",
@@ -97,7 +97,7 @@
  {
    "dataName": "Ship14",
    "friendlyName": "Pulsar-class Corvette",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "LM_Interdictor",
    "hullName": "AlienCorvette",
@@ -194,7 +194,7 @@
 {
    "dataName": "Ship34",
    "friendlyName": "Alien Escort",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "LL_Intruder",
    "hullName": "AlienEscort",
@@ -288,7 +288,7 @@
  {
    "dataName": "Ship15",
    "friendlyName": "Nova-class Frigate",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "LM_Interdictor",
    "hullName": "AlienFrigate",
@@ -388,7 +388,7 @@
 {
    "dataName": "Ship35",
    "friendlyName": "Alien Monitor",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "LL_Intruder",
    "hullName": "AlienMonitor",
@@ -486,7 +486,7 @@
  {
    "dataName": "Ship16",
    "friendlyName": "Quasar-class Destroyer",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "EarthSurveillance",
    "hullName": "AlienDestroyer",
@@ -585,7 +585,7 @@
 {
    "dataName": "Ship36",
    "friendlyName": "Alien Cruiser",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "LL_Intruder",
    "hullName": "AlienCruiser",
@@ -688,7 +688,7 @@
  {
    "dataName": "Ship17",
    "friendlyName": "Galaxy-class Battlecruiser",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "MM_SpaceSuperiority",
    "hullName": "AlienBattlecruiser",
@@ -779,7 +779,7 @@
  {
    "dataName": "Ship18",
    "friendlyName": "Magnetar-class Battleship",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "MM_SpaceSuperiority",
    "hullName": "AlienBattleship",
@@ -875,7 +875,7 @@
  {
    "dataName": "Ship19",
    "friendlyName": "Darkstar-class Assault Carrier",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "ArmyCarrier",
    "hullName": "AlienAssaultCarrier",
@@ -977,7 +977,7 @@
  {
    "dataName": "Ship20",
    "friendlyName": "Nebula-class Dreadnought",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "MM_SpaceSuperiority",
    "hullName": "AlienDreadnought",
@@ -1082,7 +1082,7 @@
  {
    "dataName": "Ship21",
    "friendlyName": "Blazar-class Mothership",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "hullAppearanceIndex": 0,
    "role": "SM_Patrol",
    "hullName": "AlienMothership",
@@ -3585,7 +3585,7 @@
  {
    "dataName": "2070Gunship",
    "friendlyName": "2070 Gunship",
-   "factionName": "EqualizeCouncil",
+   "factionName": "AppeaseCouncil",
    "hullAppearanceIndex": 0,
    "disable": true,
    "role": "SS_Interceptor",
@@ -3777,7 +3777,7 @@
  {
    "dataName": "2070Corvette",
    "friendlyName": "2070 Corvette",
-   "factionName": "LiberateCouncil",
+   "factionName": "CooperateCouncil",
    "hullAppearanceIndex": 0,
    "disable": true,
    "role": "SM_Patrol",

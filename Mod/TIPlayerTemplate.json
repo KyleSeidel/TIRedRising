@@ -13,15 +13,15 @@
 	},
 	{
 		"dataName": "SubmitPlayer",
-		"council": "RestoreCouncil",
+		"council": "SubmitCouncil",
 	},
 	{
 		"dataName": "AppeasePlayer",
-		"council": "EqualizeCouncil",
+		"council": "AppeaseCouncil",
 	},
 	{
 		"dataName": "CooperatePlayer",
-		"council": "LiberateCouncil",
+		"council": "CooperateCouncil",
 	},
 	{
 		"dataName": "EscapePlayer",
@@ -29,6 +29,6 @@
 	},
 	{
 		"dataName": "AlienPlayer",
-		"council": "DominateCouncil",
+		"council": "AlienCouncil",
 	}
 ]

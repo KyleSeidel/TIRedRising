@@ -1,6 +1,6 @@
 [
  {
-   "dataName": "DominateCouncil",
+   "dataName": "AlienCouncil",
    "friendlyName": "The Society",
    "color": {
       "r": 0.5,
@@ -11,7 +11,7 @@
    "colorIntensity": 1,
    "playerMood": 7,
    "encMood": 16,
-   "ideologyName": "dominate",
+   "ideologyName": "alien",
    "isAlien": true,
    "activePlayerAllowed": false,
    "allowedSoleAntiAlien": false,
@@ -21,7 +21,7 @@
    "hullSkinBase": "_alien",
    "armySkinBase": "_alien",
    "leaderDataname": "HydraImage01",
-   "defaultPresetName": "Dominate",
+   "defaultPresetName": "Alien",
    "hullIndex_default": 0,
    "hullIndex_chem": 0,
    "hullIndex_electric": 0,
@@ -152,7 +152,7 @@
    }
 },
  {
-   "dataName": "EqualizeCouncil",
+   "dataName": "AppeaseCouncil",
    "friendlyName": "The Republic",
    "color": {
       "r": 0.478,
@@ -163,7 +163,7 @@
    "colorIntensity": 1.2,
    "playerMood": 1,
    "encMood": 8,
-   "ideologyName": "equalize",
+   "ideologyName": "appease",
    "victoryTemplateName": "vc_submitVictory",
    "winningOrg": "SubmitWinner",
    "spaceOrg": "SubmitSpaceGroup",
@@ -571,7 +571,7 @@
    "colorIntensity": 1.5,
    "playerMood": 3,
    "encMood": 10,
-   "ideologyName": "liberate",
+   "ideologyName": "cooperate",
    "victoryTemplateName": "vc_cooperateVictory",
    "winningOrg": "CooperateWinner",
    "spaceOrg": "CooperateSpaceGroup",
@@ -782,7 +782,7 @@
    "colorIntensity": 1.2,
    "playerMood": 4,
    "encMood": 11,
-   "ideologyName": "restore",
+   "ideologyName": "submit",
    "victoryTemplateName": "vc_appeaseVictory",
    "winningOrg": "AppeaseWinner",
    "spaceOrg": "AppeaseSpaceGroup",

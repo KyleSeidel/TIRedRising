@@ -10126,7 +10126,7 @@
       "a": 0.15
    },
    "popGrowthModifier": -1,
-   "initialFactionStr": "DominateCouncil",
+   "initialFactionStr": "AlienCouncil",
    "cohesion": 10,
    "unrest": 0,
    "democracy": 0,

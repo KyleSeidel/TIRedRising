@@ -51,7 +51,7 @@
  {
    "dataName": "AISkirmishFleet",
    "friendlyName": "Sierra",
-   "factionName": "RestoreCouncil",
+   "factionName": "SubmitCouncil",
    "formationSpacing": "Tight",
    "formationName": "Line",
    "formationFocus": "Ranged",  
@@ -91,7 +91,7 @@
  {
    "dataName": "alienFleet12020",
    "friendlyName": "Bravo",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "formationSpacing": "Tight",
    "formationName": "Staggered",
    "formationFocus": "Center",  
@@ -107,7 +107,7 @@
  {
    "dataName": "alienFleet22020",
    "friendlyName": "Charlie",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "formationSpacing": "Tight",
    "formationName": "Staggered",
    "formationFocus": "Center",  
@@ -123,7 +123,7 @@
  {
    "dataName": "alienFleet32020",
    "friendlyName": "Delta",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "formationSpacing": "Tight",
    "formationName": "Staggered",
    "formationFocus": "Center",  
@@ -139,7 +139,7 @@
  {
    "dataName": "alienFleet42020",
    "friendlyName": "Echo",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "formationSpacing": "Tight",
    "formationName": "Staggered",
    "formationFocus": "Center",  
@@ -155,7 +155,7 @@
  {
    "dataName": "alienFleet52020",
    "friendlyName": "Foxtrot",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "formationSpacing": "Tight",
    "formationName": "Staggered",
    "formationFocus": "Center",  
@@ -171,7 +171,7 @@
 {
    "dataName": "alienFleet62020",
    "friendlyName": "Foxtrot",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "formationSpacing": "Tight",
    "formationName": "Staggered",
    "formationFocus": "Center",  
@@ -212,7 +212,7 @@
  {
    "dataName": "testFleet2",
    "friendlyName": "Victor",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "formationSpacing": "Spread",
    "formationName": "Convoy",
    "formationFocus": "Center",  
@@ -292,7 +292,7 @@
  {
    "dataName": "testFleet4",
    "friendlyName": "4th Fleet",
-   "factionName": "RestoreCouncil",
+   "factionName": "SubmitCouncil",
    "formationSpacing": "Spread",
    "formationName": "Staggered",
    "formationFocus": "Center",  
@@ -323,7 +323,7 @@
 {
    "dataName": "testFleet5",
    "friendlyName": "4th Fleet",
-   "factionName": "RestoreCouncil",
+   "factionName": "SubmitCouncil",
    "formationSpacing": "Spread",
    "formationName": "Staggered",
    "formationFocus": "Center",  
@@ -403,7 +403,7 @@
 {
    "dataName": "testFleet7",
    "friendlyName": "Victor",
-   "factionName": "DominateCouncil",
+   "factionName": "AlienCouncil",
    "formationSpacing": "Spread",
    "formationName": "Convoy",
    "formationFocus": "Center",  
@@ -422,7 +422,7 @@
  {
    "dataName": "testFleet8",
    "friendlyName": "5th Fleet",
-   "factionName": "RestoreCouncil",
+   "factionName": "SubmitCouncil",
    "formationSpacing": "Spread",
    "formationName": "Staggered",
    "formationFocus": "Center",  

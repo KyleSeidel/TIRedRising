@@ -140,7 +140,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "InnerExplorationRange_AU"
@@ -155,7 +155,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "InnerExplorationRange_AU"
@@ -170,7 +170,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "ExploreLuna"
@@ -185,7 +185,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "OuterExplorationRange_AU"
@@ -200,7 +200,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "ExploreEarthLagrangePoints"
@@ -215,7 +215,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "OuterExplorationRange_AU"
@@ -230,7 +230,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "OuterExplorationRange_AU"
@@ -245,7 +245,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "OuterExplorationRange_AU"
@@ -260,7 +260,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "OuterExplorationRange_AU"
@@ -275,7 +275,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "OuterExplorationRange_AU"
@@ -297,7 +297,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "CanFoundTier1Station"
@@ -312,7 +312,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "CanFoundTier2Station"
@@ -327,7 +327,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "CanFoundTier3Station"
@@ -342,7 +342,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "CanFoundTier1Base"
@@ -357,7 +357,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "CanFoundTier2Base"
@@ -372,7 +372,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "CanFoundTier3Base"
@@ -411,7 +411,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "CanAmassAntimatter"
@@ -426,7 +426,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "CanAmassExotics"
@@ -453,7 +453,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericModuleTransferTime"
@@ -468,7 +468,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericTransfer_OffDate_PCT"
@@ -483,7 +483,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericModuleTransferTime"
@@ -498,7 +498,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericModuleTransferTime"
@@ -525,8 +525,8 @@
    "stackable": true,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil",
-      "DominateCouncil"
+      "AlienCouncil",
+      "AlienCouncil"
    ],
    "contexts": [
       "CouncilSize"
@@ -577,8 +577,8 @@
    "stackable": true,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil",
-      "DominateCouncil"
+      "AlienCouncil",
+      "AlienCouncil"
    ],
    "contexts": [
       "MaxAvailableOrgs"
@@ -599,7 +599,7 @@
    "effectDuration": "instant",
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ]
 },
  {
@@ -609,7 +609,7 @@
    "effectDuration": "instant",
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ]
 },
  {
@@ -619,7 +619,7 @@
    "effectDuration": "instant",
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ]
 },
  {
@@ -2354,7 +2354,7 @@
    "effectDuration": "permanent",
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericTransferEV_kps"
@@ -2368,7 +2368,7 @@
    "effectDuration": "permanent",
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericTransferEV_kps"
@@ -2382,7 +2382,7 @@
    "effectDuration": "permanent",
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericTransferEV_kps"
@@ -2396,7 +2396,7 @@
    "effectDuration": "permanent",
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericTransferEV_kps"
@@ -2410,7 +2410,7 @@
    "effectDuration": "permanent",
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "GenericTransferEV_kps"
@@ -2544,7 +2544,7 @@
    "stackable": true,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "MaxMissionSliderSteps"
@@ -2775,7 +2775,7 @@
    "stackable": true,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "BilateralRelationsCooldownMultiplier"
@@ -3657,8 +3657,8 @@
    "stackable": true,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil",
-      "DominateCouncil"
+      "AlienCouncil",
+      "AlienCouncil"
    ],
    "contexts": [
       "ArmyNuclearHardening"
@@ -3673,8 +3673,8 @@
    "stackable": true,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil",
-      "DominateCouncil"
+      "AlienCouncil",
+      "AlienCouncil"
    ],
    "contexts": [
       "ArmyNuclearHardening"
@@ -3846,8 +3846,8 @@
    "stackable": true,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil",
-      "DominateCouncil"
+      "AlienCouncil",
+      "AlienCouncil"
    ],
    "contexts": [
       "ControlPointMaintenance"
@@ -3862,8 +3862,8 @@
    "stackable": true,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil",
-      "DominateCouncil"
+      "AlienCouncil",
+      "AlienCouncil"
    ],
    "contexts": [
       "ControlPointMaintenance"
@@ -6008,7 +6008,7 @@
    "stackable": false,
    "duration_months": -1,
    "initialFactionsStr": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "contexts": [
       "TargetingComputerBonus"

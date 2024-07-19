@@ -8,7 +8,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 100,
@@ -28,7 +28,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "DominateCouncil"
+      "AlienCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 100,
@@ -315,9 +315,9 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "EqualizeCouncil",
-      "LiberateCouncil",
-      "RestoreCouncil"
+      "AppeaseCouncil",
+      "CooperateCouncil",
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 50,
@@ -343,7 +343,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil"
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 50,
@@ -371,7 +371,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "LiberateCouncil",
+      "CooperateCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "ExploitCouncil",
@@ -420,9 +420,9 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "EqualizeCouncil",
-      "LiberateCouncil",
-      "RestoreCouncil"
+      "AppeaseCouncil",
+      "CooperateCouncil",
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 50,
@@ -444,7 +444,7 @@
    "repeatable": false,
    "factionPrereq": [
       "DestroyCouncil",
-      "LiberateCouncil"
+      "CooperateCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 50,
@@ -489,7 +489,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "LiberateCouncil",
+      "CooperateCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "ExploitCouncil",
@@ -515,7 +515,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "LiberateCouncil",
+      "CooperateCouncil",
       "DestroyCouncil",
       "ExploitCouncil",
       "ResistCouncil"
@@ -589,7 +589,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 100,
@@ -620,7 +620,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "LiberateCouncil"
+      "CooperateCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 100,
@@ -775,7 +775,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil"
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 100,
@@ -808,7 +808,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 50,
@@ -837,7 +837,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "LiberateCouncil"
+      "CooperateCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 50,
@@ -964,7 +964,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil"
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 50,
@@ -5495,7 +5495,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 0,
@@ -10568,7 +10568,7 @@
       "DestroyCouncil",
       "ExploitCouncil",
       "EscapeCouncil",
-      "LiberateCouncil"
+      "CooperateCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 0,
@@ -10677,8 +10677,8 @@
       "DestroyCouncil",
       "ExploitCouncil",
       "EscapeCouncil",
-      "LiberateCouncil",
-      "EqualizeCouncil"
+      "CooperateCouncil",
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 50,
@@ -10708,8 +10708,8 @@
       "DestroyCouncil",
       "ExploitCouncil",
       "EscapeCouncil",
-      "LiberateCouncil",
-      "EqualizeCouncil"
+      "CooperateCouncil",
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 75,
    "initialUnlockChance": 25,
@@ -10756,7 +10756,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil",
+      "SubmitCouncil",
       "DestroyCouncil",
       "ExploitCouncil"
    ],
@@ -10900,7 +10900,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionAvailableChance": 100,
-   "factionAlways": "RestoreCouncil",
+   "factionAlways": "SubmitCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -10925,7 +10925,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionAvailableChance": 80,
-   "factionAlways": "RestoreCouncil",
+   "factionAlways": "SubmitCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -11080,7 +11080,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionAvailableChance": 50,
-   "factionAlways": "LiberateCouncil",
+   "factionAlways": "CooperateCouncil",
    "initialUnlockChance": 15,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -11222,7 +11222,7 @@
    "factionPrereq": [
       "ResistCouncil",
       "EscapeCouncil",
-      "LiberateCouncil"
+      "CooperateCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 25,
@@ -11256,8 +11256,8 @@
    "factionPrereq": [
       "DestroyCouncil",
       "ExploitCouncil",
-      "RestoreCouncil",
-      "EqualizeCouncil"
+      "SubmitCouncil",
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 25,
@@ -11288,7 +11288,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil"
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 25,
@@ -11319,7 +11319,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 25,
@@ -11351,7 +11351,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil"
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 25,
@@ -11383,7 +11383,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 25,
@@ -11414,7 +11414,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil"
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 25,
@@ -11445,7 +11445,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 25,
@@ -11716,9 +11716,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 5,
@@ -11749,9 +11749,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 5,
@@ -11782,9 +11782,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 5,
@@ -11926,11 +11926,11 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil",
-      "EqualizeCouncil"
+      "SubmitCouncil",
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 40,
-   "factionAlways": "RestoreCouncil",
+   "factionAlways": "SubmitCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -12442,11 +12442,11 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil",
-      "EqualizeCouncil"
+      "SubmitCouncil",
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 40,
-   "factionAlways": "RestoreCouncil",
+   "factionAlways": "SubmitCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -12599,7 +12599,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionAvailableChance": 40,
-   "factionAlways": "LiberateCouncil",
+   "factionAlways": "CooperateCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -12621,7 +12621,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionAvailableChance": 40,
-   "factionAlways": "LiberateCouncil",
+   "factionAlways": "CooperateCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -12878,11 +12878,11 @@
    "oneTimeGlobally": true,
    "repeatable": false,
    "factionPrereq": [
-      "LiberateCouncil",
-      "EqualizeCouncil"
+      "CooperateCouncil",
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 50,
-   "factionAlways": "EqualizeCouncil",
+   "factionAlways": "AppeaseCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -12904,11 +12904,11 @@
    "oneTimeGlobally": true,
    "repeatable": false,
    "factionPrereq": [
-      "LiberateCouncil",
-      "EqualizeCouncil"
+      "CooperateCouncil",
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 50,
-   "factionAlways": "LiberateCouncil",
+   "factionAlways": "CooperateCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -12980,7 +12980,7 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil"
    ],
    "factionAvailableChance": 100,
@@ -13101,7 +13101,7 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil"
    ],
    "factionAvailableChance": 70,
@@ -13137,9 +13137,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 5,
@@ -13169,9 +13169,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 5,
@@ -13203,9 +13203,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 5,
@@ -13233,9 +13233,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 50,
    "factionAlways": "DestroyCouncil",
@@ -13311,7 +13311,7 @@
    "repeatable": false,
    "factionPrereq": [
       "ExploitCouncil",
-      "EqualizeCouncil",
+      "AppeaseCouncil",
       "EscapeCouncil"
    ],
    "factionAvailableChance": 10,
@@ -13341,9 +13341,9 @@
    "repeatable": false,
    "factionPrereq": [
       "ResistCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "RestoreCouncil"
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 10,
    "factionAlways": "ResistCouncil",
@@ -13485,9 +13485,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 10,
@@ -13516,9 +13516,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 0,
@@ -13547,9 +13547,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 50,
    "factionAlways": "ResistCouncil",
@@ -13580,9 +13580,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 50,
    "factionAlways": "ExploitCouncil",
@@ -13614,7 +13614,7 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil"
    ],
    "factionAvailableChance": 90,
@@ -13645,9 +13645,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
    "initialUnlockChance": 20,
@@ -13677,9 +13677,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
    "initialUnlockChance": 20,
@@ -13710,12 +13710,12 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
-   "factionAlways": "LiberateCouncil",
+   "factionAlways": "CooperateCouncil",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
@@ -13743,9 +13743,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
    "initialUnlockChance": 20,
@@ -13776,7 +13776,7 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil"
    ],
    "factionAvailableChance": 90,
@@ -13807,9 +13807,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
    "initialUnlockChance": 20,
@@ -13838,7 +13838,7 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil"
    ],
    "factionAvailableChance": 90,
@@ -13869,9 +13869,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
    "factionAlways": "ExploitCouncil",
@@ -13903,9 +13903,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
    "initialUnlockChance": 20,
@@ -13933,9 +13933,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
    "initialUnlockChance": 20,
@@ -13963,9 +13963,9 @@
       "DestroyCouncil",
       "ResistCouncil",
       "ExploitCouncil",
-      "LiberateCouncil",
+      "CooperateCouncil",
       "EscapeCouncil",
-      "EqualizeCouncil"
+      "AppeaseCouncil"
    ],
    "factionAvailableChance": 90,
    "factionAlways": "DestroyCouncil",
@@ -14176,7 +14176,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
-      "RestoreCouncil"
+      "SubmitCouncil"
    ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 20,
